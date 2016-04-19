@@ -1,0 +1,28 @@
+name: The Daily Guardian
+favicon: null
+layout_spectrum: 0.1259978199377656
+typography_spectrum: 0.7045234490651637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4139580358751118
+  lightness: 0.8148901988752186
+  saturation: 0.4069799727294594
+  rhythmicContrast: 0.8421413048636168
+purpose: []
